@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\lib",
+    "\\lib\\__mocks__",
     "\\__tests__"
   ],
   "SelectedNode": "\\__tests__\\Player.test.js",
