@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.git",
     "\\lib",
-    "\\Local settings (.vs)",
-    "\\Local settings (.vs)\\jest-another-RPG",
-    "\\node_modules",
     "\\__tests__"
   ],
   "SelectedNode": "\\__tests__\\Player.test.js",

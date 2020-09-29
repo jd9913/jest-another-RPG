@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jd9913/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/jd9913/jest-another-RPG#readme"
+  "homepage": "https://github.com/jd9913/jest-another-RPG#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
 }
